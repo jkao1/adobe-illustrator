@@ -2,4 +2,4 @@
 <br>
 
 ### `Desk`
-<img src="desk.png"/>
+<img src="desk/desk.png"/>
