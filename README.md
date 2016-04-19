@@ -1,5 +1,5 @@
 # design
-<br>
+
 ###Helpful Tools
 <a href="http://www.coolors.co">Coolors</a> is a super fast color schemes generator.<br>
 <a href="http://www.flatuicolors.com">FlatUIColors</a> is a simple palette for flat design colors.<br>
