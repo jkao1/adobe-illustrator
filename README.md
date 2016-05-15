@@ -9,6 +9,6 @@
 
 ###Snapshots 
 <img src="desk/desk.png"/>
-<img src="new-jen/img/circuit.png"/>
-<img src="new-jen/img/ramvsrom.png"/>
+<img src="https://raw.githubusercontent.com/jkao1/NewJen/master/img/circuit.png"/>
+<img src="https://raw.githubusercontent.com/jkao1/NewJen/master/img/ramvsrom.png"/>
 <img src="git-pfp/pfp.png"/>
